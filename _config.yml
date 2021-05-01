@@ -1,0 +1,53 @@
+url: "https://colorvibes.in/"
+baseurl: ""
+
+#baseurl: "/"
+
+# If you are building a GitHub project page then use these settings:
+# url: "https://www.iamgini.com/site2/"
+# baseurl: "/site2"
+
+
+# Site settings
+title: colorvibes
+email: works@colorvibes.in
+description: "colorvibes, do it in a better way"
+tagline: "do it in a better way"
+
+favicon: 'assets/images/favicon.ico'
+
+# Team names, titles and social links
+people:
+#- name: Kay Garland
+#  pic: 1
+#  position: Lead Designer
+#  social:
+#    - title: twitter
+#      url: #
+#    - title: facebook
+#      url: #
+#    - title: stack-overflow
+#      url: #
+
+# ---------------------------------------------------
+- name: works
+  pic: works
+  position: Team
+  social:
+    - title: facebook
+      url: https://www.facebook.com/colorvibes
+
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: facebook
+    url: https://www.facebook.com/colorvibes
+
+# Postal address (add as many lines as necessary)
+address:
+#  - line: Sample1
+#  - line: Sample2
+
+# Build settings
+markdown: kramdown
+permalink: pretty
