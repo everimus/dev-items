@@ -30,18 +30,18 @@ people:
 #      url: #
 
 # ---------------------------------------------------
-- name: works
-  pic: works
-  position: Team
+- name: devops
+  pic: devops
+  position: DevOps Team
   social:
     - title: facebook
-      url: https://www.facebook.com/colorvibes
+      url: https://www.facebook.com/everimus
 
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: facebook
-    url: https://www.facebook.com/colorvibes
+    url: https://www.facebook.com/everimus
 
 # Postal address (add as many lines as necessary)
 address:
