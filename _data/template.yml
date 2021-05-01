@@ -6,6 +6,8 @@ color:
   muted: 777
   primary-light: eeeeee
   primary-dark: 6f0001
+  brand-color: ffffff
+  brand-background: 222222
 
 # Font Families
 font:
