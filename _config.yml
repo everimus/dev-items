@@ -1,4 +1,4 @@
-url: "https://colorvibes.in/"
+url: "https://www.everimus.com"
 baseurl: ""
 
 #baseurl: "/"
@@ -9,10 +9,10 @@ baseurl: ""
 
 
 # Site settings
-title: colorvibes
-email: works@colorvibes.in
-description: "colorvibes, do it in a better way"
-tagline: "do it in a better way"
+title: everimus
+email: devops@everimus.com
+description: "opensource and smart"
+tagline: "opensource and smart"
 
 favicon: 'assets/images/favicon.ico'
 

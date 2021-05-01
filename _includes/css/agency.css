@@ -179,8 +179,10 @@ fieldset[disabled] .btn-xl.active {
 
 .navbar-default {
     border-color: #000;
-    /* background-color: #222; */
+    background-color: transparent;
+    /* background-color: #222; 
     background-color: #222;
+    opacity: 0.3; */
 }
 
 .navbar-default .navbar-brand {
@@ -246,7 +248,8 @@ fieldset[disabled] .btn-xl.active {
     .navbar-default {
         padding: 25px 0;
         border: 0;
-        background-color: #222;
+        /*background-color: #222;*/
+        background-color: transparent;
         -webkit-transition: padding .3s;
         -moz-transition: padding .3s;
         transition: padding .3s;
@@ -290,7 +293,7 @@ header {
     text-align: center;
     color: #000;
     background-attachment: scroll;
-    background-image: url('{{ site.baseurl }}/img/pexels-pixabay-434337-background.jpg');
+    background-image: url('{{ site.baseurl }}/img/pietro-jeng-n6B49lTx7NM-unsplash-1.jpg');
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
@@ -752,8 +755,8 @@ section#services .service-heading {
 
 
 section#contact {
-    background-color: #222;
-    background-image: url('{{ site.baseurl }}/img/jess-bailey-q10VITrVYUM-unsplash.jpg.crdownload');
+    background-color: #eee;
+    /*background-image: url('{{ site.baseurl }}/img/jess-bailey-q10VITrVYUM-unsplash.jpg.crdownload');*/
     background-position: center;
     background-repeat: no-repeat;
 }
