@@ -2,17 +2,18 @@ url: "https://www.everimus.com"
 baseurl: ""
 
 #baseurl: "/"
-
 # If you are building a GitHub project page then use these settings:
 # url: "https://www.iamgini.com/site2/"
 # baseurl: "/site2"
-
 
 # Site settings
 title: everimus
 email: devops@everimus.com
 description: "opensource and smart"
+metadescription : "Looking holistically at clients’ business needs, everimus can help businesses better leverage the benefits of Automation, Containerization, DevOps and fine tune cloud solutions. everimus's range of technology services include, but not limited to: Cloud Management, Enterprise Automation, DevOps & Containerization.
 tagline: "opensource and smart"
+titletagline: "Enterprise Solutions for Automation, Containerization and DevOps"
+metaimage: "assets/images/everimus-meta-image.png"
 
 favicon: 'assets/images/favicon.ico'
 
